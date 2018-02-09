@@ -1,4 +1,4 @@
-# Analysis and Synthesis of Algorithms <br> Análise e Síntese de Algoritmos (LP)
+# Analysis and Synthesis of Algorithms <br> Análise e Síntese de Algoritmos (ASA)
 Project of my Analysis and Synthesis of Algorithms course. <br><br>
 Problem: Mr. João Caracol, Bananadian Prime Minister, decided to make an investment in
 infrastructure in the country in order to integrate all large and medium-sized cities into one
@@ -16,7 +16,8 @@ If there are optimal solutions with the same total cost, consider the solution t
 the number of airports to be built.
 
 ### How to run
-Install SWI-Prolog here: http://www.swi-prolog.org/Download.html<br>
+``` gcc asa_grupo29.c ```<br>
+``` ./asa_grupo29.c ```
 
 #### Language
 C<br>
